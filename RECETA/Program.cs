@@ -23,7 +23,15 @@ string input = "- RECETA: Pudin de pan\n" +
                 "\t3) Echar todos los solidos\n" +
                 "\t4) Licuar\n" +
                 "\t5) Beberselo en el vaso de la licuadora\n" +
-                "\t6) Fin\n";
+                "\t6) Fin\n" +
+                "- RECETA: Pudin de pan\n" +
+                "- PORCIONES: 2 jartones\n" +
+                "- CALORIAS: 2000 calorias\n" +
+                "- INGREDIENTES:\n" +
+                "\t2 Pizzas Grandes de Pizza Hut\n" +
+                "- ELABORACION:\n" +
+                "\t1) Colocar la Pizza en la mesa\n" +
+                "\t2) Comersela\n";
 Console.WriteLine($"input: {input}\n");
 ICharStream stream = CharStreams.fromString(input);
 RECETALexer lexer = new RECETALexer(stream);

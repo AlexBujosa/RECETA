@@ -1,7 +1,7 @@
 grammar RECETA;
 
 receta: nombre+ EOF;
-nombre: nom por tp tc clr ing ela;
+nombre: nom por tp* tc* clr ing ela;
 ingreItem: TAB number WS TXT NEWLINE;
 elaItem: TAB number ')' WS TXT NEWLINE;
 nom: GUION WS 'RECETA' SEP WS TXT NEWLINE;
@@ -14,8 +14,8 @@ ela: GUION WS 'ELABORACION' SEP NEWLINE elaItem+;
 minSTR: 'MIN' | 'min';
 number: INT | FLOAT;
 min: number WS minSTR;
-porc: number WS 'personas';
-calo: number WS 'kcal';
+porc: number WS TXT;
+calo: number WS TXT;
 INT: [0-9]+;
 FLOAT: [0-9]+ '.' [0-9]+;
 WS: ' ';
