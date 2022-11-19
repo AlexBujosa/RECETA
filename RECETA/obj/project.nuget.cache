@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7HoPeDifXUj3IJSVGpQkEl7g3PnSJ1UBQ4DZoqmxphLx/NgGAqfmIS25/lwG14lIsbhhssomK8KJzHwxxteWdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\any_c\\source\\repos\\RECETA\\RECETA\\RECETA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\any_c\\.nuget\\packages\\antlr4.runtime.standard\\4.9.2\\antlr4.runtime.standard.4.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

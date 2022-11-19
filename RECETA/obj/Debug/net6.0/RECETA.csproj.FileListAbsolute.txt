@@ -1,0 +1,17 @@
+C:\Users\any_c\source\repos\RECETA\RECETA\bin\Debug\net6.0\RECETA.exe
+C:\Users\any_c\source\repos\RECETA\RECETA\bin\Debug\net6.0\RECETA.deps.json
+C:\Users\any_c\source\repos\RECETA\RECETA\bin\Debug\net6.0\RECETA.runtimeconfig.json
+C:\Users\any_c\source\repos\RECETA\RECETA\bin\Debug\net6.0\RECETA.dll
+C:\Users\any_c\source\repos\RECETA\RECETA\bin\Debug\net6.0\RECETA.pdb
+C:\Users\any_c\source\repos\RECETA\RECETA\bin\Debug\net6.0\Antlr4.Runtime.Standard.dll
+C:\Users\any_c\source\repos\RECETA\RECETA\obj\Debug\net6.0\RECETA.csproj.AssemblyReference.cache
+C:\Users\any_c\source\repos\RECETA\RECETA\obj\Debug\net6.0\RECETA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\any_c\source\repos\RECETA\RECETA\obj\Debug\net6.0\RECETA.AssemblyInfoInputs.cache
+C:\Users\any_c\source\repos\RECETA\RECETA\obj\Debug\net6.0\RECETA.AssemblyInfo.cs
+C:\Users\any_c\source\repos\RECETA\RECETA\obj\Debug\net6.0\RECETA.csproj.CoreCompileInputs.cache
+C:\Users\any_c\source\repos\RECETA\RECETA\obj\Debug\net6.0\RECETA.csproj.CopyComplete
+C:\Users\any_c\source\repos\RECETA\RECETA\obj\Debug\net6.0\RECETA.dll
+C:\Users\any_c\source\repos\RECETA\RECETA\obj\Debug\net6.0\refint\RECETA.dll
+C:\Users\any_c\source\repos\RECETA\RECETA\obj\Debug\net6.0\RECETA.pdb
+C:\Users\any_c\source\repos\RECETA\RECETA\obj\Debug\net6.0\RECETA.genruntimeconfig.cache
+C:\Users\any_c\source\repos\RECETA\RECETA\obj\Debug\net6.0\ref\RECETA.dll
